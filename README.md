@@ -10,16 +10,3 @@
 
 ⚡ Fun fact: Did you know that the first computer virus known as "Creeper" was created in 1971 and only replicated itself without causing any real damage?
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-👋 Salut, je suis @Gekiidoo !
-
-👀 Je m'intéresse à la cybersécurité et au hacking éthique, ainsi qu'au développement d'applications mobiles.
-
-🌱 Actuellement, j'apprends le Python et le JavaScript pour renforcer mes compétences dans ces domaines.
-
-💞️ Je cherche des collègues passionnés pour collaborer sur le développement d'une application mobile passionnante !
-
-📫 Pour me contacter, vous pouvez m'envoyer un e-mail à [bientôt].
-
-⚡ Fun fact : Saviez-vous que le premier virus informatique connu sous le nom de "Creeper" a été créé en 1971 et ne faisait que se copier lui-même sans causer de dommages réels ?
